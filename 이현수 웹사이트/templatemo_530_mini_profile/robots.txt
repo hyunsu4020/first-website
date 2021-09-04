@@ -1,0 +1,3 @@
+User-agent: *
+Allow:/
+Sitemap: https://hyunsu.netlify.app/sitemap.xml
